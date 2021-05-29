@@ -5,7 +5,7 @@ from django.dispatch import receiver
 
 
 class Profile(models.Model):
-    user = models.OneToOneField(User, on_delete=models.CASCADE)
+    user = models.OneToOneField(User, on_delete=models.CASCADE)  # https://docs.djangoproject.com/en/3.2/ref/contrib/auth/
 
     GENDER_CHOICES = (('M', 'Male'), ('F', 'Female'), ('', 'Unspecified'))
     gender = models.CharField(max_length=1, choices=GENDER_CHOICES, default='')
