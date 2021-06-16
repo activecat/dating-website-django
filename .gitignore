@@ -1,5 +1,7 @@
 # sgku: In Windows PowerShell, .gitignore doesn't work. Only .git/info/exclude works.
 
+README.md
+
 .vscode/*
 # db.sqlite3
 
