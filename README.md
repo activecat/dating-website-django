@@ -21,6 +21,9 @@ Using Window Command Prompt or PowerShell, execute commands:
 
 Step 5: Use your web browser (eg. Chrome browser or Microsoft Edge) to surf http://localhost:8000/    
 
+If you face any problem, please chat with us at `https://t.me/activecat_dating`
+
+
 ### Reference
 
 [1]. https://www.python.org/downloads/windows/
@@ -37,9 +40,9 @@ I am creating a dating website primarily in Python, making it open-source and sh
 Let's join me and contribute your idea, skill, experience, business perspective, administrator, facilitator, website users etc.
 
 We are using
-- Backend: Django (Python)
+- Backend: Django version 3.1.6 (Python version 3.8.5)
 - Front-end: HTML5 / CSS / Pure JavaScript
-- Database: PostgreSQL
+- Database: sqlite3 (will migrate to PostgreSQL)
 
 Also join our Facebook group at https://web.facebook.com/groups/builddating
 
