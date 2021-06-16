@@ -1,5 +1,12 @@
 # sgku: In Windows PowerShell, .gitignore doesn't work. Only .git/info/exclude works.
 
+# git ls-files --others --exclude-from=.git/info/exclude
+# Lines that start with '#' are comments.
+# For a project mostly in C, the following would be a good set of
+# exclude patterns (uncomment them if you want to use them):
+# *.[oa]
+# *~
+
 README.md
 
 .vscode/*
