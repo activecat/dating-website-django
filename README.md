@@ -2,14 +2,14 @@
 
 ### To run this project on your PC,
 
-Step 1: Install python. If you are using Windows, download from [1].
+Step 1: **Install python**. For Windows 10, download from [1].
 
 
-Step 2: Install Django. You may install Django [2] by command:
+Step 2: **Install Django**. You may install Django [2] by command:
 
     python -m pip install Django
 
-Step 3: Download this repository [3]. The easiest way is to click "Code" and then "Download ZIP" on this webpage.
+Step 3: Download the source code from **repository** [3]. The easiest way is to click "Code" and then "Download ZIP" on this webpage.
 Extract it and you will get a folder: `dating-website-django-master`.
 
 Step 4: Now you can run it locally. Using Windows Command Prompt or PowerShell, run commands:
@@ -24,7 +24,7 @@ Step 6: To reset the admin password,
     python manage.py createsuperuser
 
 
-Step 7: To add/edit/delete users, use the admin webpage at http://localhost:8000/admin/
+Step 7: To add/edit/delete users, use the admin webpage http://localhost:8000/admin/
 
 
 
