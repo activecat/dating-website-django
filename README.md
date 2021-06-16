@@ -1,6 +1,6 @@
 # Together we build a dating website in Python
 
-### To run this project on your PC,
+#### To run this project on your PC,
 
 Step 1: **Install python**. For Windows 10, download from [1].
 
@@ -11,7 +11,7 @@ Step 2: **Install Django**. You may install Django [2] by command:
 
 Step 3: **Download source code** from repository [3]. The easiest way is to click "Code" and then "Download ZIP" on this webpage.  Extract it and you will get a folder: `dating-website-django-master`.
 
-Step 4: Now you can **run it locally**. Using Windows Command Prompt or PowerShell, run commands:
+Step 4: Now you can **run it locally**. Using Windows Command Prompt or PowerShell,
 
     cd Downloads\dating-website-django-master
     python manage.py runserver
@@ -27,7 +27,7 @@ Step 7: To add/edit/delete users, enter the **admin site** http://localhost:8000
 
 
 
-If you face any problem, come and chat with us at https://t.me/activecat_dating
+If you face any problem, come and **chat with us** at https://t.me/activecat_dating
 
 
 ### Reference
