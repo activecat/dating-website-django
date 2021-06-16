@@ -24,6 +24,9 @@ Step 6: Reset your admin password by running command:
     python manage.py createsuperuser
 
 
+Step 7: You can know add/edit/delete users at `http://localhost:8000/admin/`
+
+
 If you face any problem, come and chat with us at https://t.me/activecat_dating
 
 
