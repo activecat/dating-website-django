@@ -10,7 +10,7 @@ Step 2: Install Django [2].
 You may install Django by running command: `python -m pip install Django`
 
 Step 3: Download this repository [3]. The easiest way is to click "Code" and then "Download ZIP" on this webpage.
-Unzip it and you will get a folder of `dating-website-django-master`.
+Unzip it and you will get this folder: `dating-website-django-master`.
 
 Step 4: Now you can run it locally.
 Using Window Command Prompt or PowerShell, execute commands:
@@ -21,7 +21,7 @@ Using Window Command Prompt or PowerShell, execute commands:
 
 Step 5: Use your web browser (eg. Chrome browser or Microsoft Edge) to surf http://localhost:8000/    
 
-If you face any problem, please chat with us at https://t.me/activecat_dating
+If you face any problem, come and chat with us at https://t.me/activecat_dating
 
 
 ### Reference
