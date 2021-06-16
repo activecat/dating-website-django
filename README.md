@@ -6,14 +6,14 @@ Step 1: Install python.
 If you are using Windows, download from [1].
 
 
-Step 2: Install Django [2]. 
-You may install Django by running command: `python -m pip install Django`
+Step 2: Install Django. 
+You may install Django [2] by running command: `python -m pip install Django`
 
 Step 3: Download this repository [3]. The easiest way is to click "Code" and then "Download ZIP" on this webpage.
-Unzip it and you will get this folder: `dating-website-django-master`.
+Extract it and you will get this folder: `dating-website-django-master`.
 
 Step 4: Now you can run it locally.
-Using Window Command Prompt or PowerShell, execute commands:
+Using Window Command Prompt or PowerShell, run commands:
 
     cd Downloads\dating-website-django-master
     python manage.py runserver
@@ -40,7 +40,8 @@ I am creating a dating website primarily in Python (inevitably later will have J
 Let's join us and contribute your idea, skill, experience, business view, as administrator, as facilitator, as website users etc.
 
 We are using
-- Backend: Django version 3.1.6 (Python version 3.8.5)
+- Backend: Django version 3.1.6
+- Python version 3.8.5
 - Front-end: HTML5 / CSS / Pure JavaScript
 - Database: sqlite3 (will migrate to PostgreSQL)
 
