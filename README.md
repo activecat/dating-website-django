@@ -3,16 +3,16 @@
 ### To run this on your PC,
 
 1). Install python. 
-If you are using Windows, download from https://www.python.org/downloads/windows/
+If you are using Windows, download from [1].
 
 
 2). Install Django. Run the following command:
-    python -m pip install Django
-
+    `python -m pip install Django`
 Refer https://docs.djangoproject.com/en/3.2/topics/install/#installing-official-release
 
 
 3). Download this repository. The easiest way is to click "Code" and then "Download ZIP" on https://github.com/activecat/dating-website-django
+
 Unzip it and you will get a folder of "dating-website-django-master".
 
 4). Run it locally.
