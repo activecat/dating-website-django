@@ -21,6 +21,9 @@ Using Window Command Prompt or PowerShell, run commands:
 
 Step 5: Use your web browser (eg. Chrome browser or Microsoft Edge) to surf http://localhost:8000/    
 
+step 6: Reset your admin password.
+`python manage.py createsuperuser`
+
 If you face any problem, come and chat with us at https://t.me/activecat_dating
 
 
