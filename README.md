@@ -1,6 +1,6 @@
 # Together we build a dating website in Python
 
-#### To run this project on your PC,
+To run this project on your PC,
 
 Step 1: **Install python**. For Windows 10, download from [1].
 
@@ -41,7 +41,7 @@ If you face any problem, come and **chat with us** at https://t.me/activecat_dat
 
 
 # About this project
-I am creating a dating website primarily in Python (inevitably later will have JavaScript in the web front-end), making it open-source and share the source code on GitHub. This will be built together with you if you are interested.
+I am creating a dating website primarily in Python (inevitably later will have JavaScript in the web front-end), making it open-source and share the source code on GitHub. We will build this website together with you if you are interested.
 
 Let's join us and contribute your idea, skill, experience, business view, as administrator, as facilitator, as website users etc.
 
@@ -51,6 +51,4 @@ We are using
 - Front-end: HTML5 / CSS / Pure JavaScript
 - Database: sqlite3 (will migrate to PostgreSQL)
 
-Also join our Facebook group at https://web.facebook.com/groups/builddating
-
-Year 2021
+Remember to join our Facebook group at https://web.facebook.com/groups/builddating
