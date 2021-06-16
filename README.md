@@ -21,7 +21,7 @@ Using Window Command Prompt or PowerShell, execute commands:
 
 Step 5: Use your web browser (eg. Chrome browser or Microsoft Edge) to surf http://localhost:8000/    
 
-If you face any problem, please chat with us at `https://t.me/activecat_dating`
+If you face any problem, please chat with us at https://t.me/activecat_dating
 
 
 ### Reference
@@ -35,9 +35,9 @@ If you face any problem, please chat with us at `https://t.me/activecat_dating`
 
 
 # About this project
-I am creating a dating website primarily in Python, making it open-source and share the source code on GitHub. This will be built together with you if you are interested.
+I am creating a dating website primarily in Python (inevitably later will have JavaScript in the web front-end), making it open-source and share the source code on GitHub. This will be built together with you if you are interested.
 
-Let's join me and contribute your idea, skill, experience, business perspective, administrator, facilitator, website users etc.
+Let's join us and contribute your idea, skill, experience, business view, as administrator, as facilitator, as website users etc.
 
 We are using
 - Backend: Django version 3.1.6 (Python version 3.8.5)
