@@ -5,7 +5,8 @@
 Step 1: Install python. If you are using Windows, download from [1].
 
 
-Step 2: Install Django. You may install Django [2] by running command: 
+Step 2: Install Django. You may install Django [2] by running command:
+
     python -m pip install Django
 
 Step 3: Download this repository [3]. The easiest way is to click "Code" and then "Download ZIP" on this webpage.
