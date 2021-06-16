@@ -21,7 +21,8 @@ Using Window Command Prompt or PowerShell, run commands:
 
 Step 5: Use your web browser (eg. Chrome browser or Microsoft Edge) to surf http://localhost:8000/    
 
-Step 6: Reset your admin password by running command: `python manage.py createsuperuser`
+Step 6: Reset your admin password by running command:
+    `python manage.py createsuperuser`
 
 
 

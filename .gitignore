@@ -1,4 +1,4 @@
-# sgku: In Windows PowerShell, .gitignore doesn't work. Only .git/info/exclude works.
+# sgku: In Windows PowerShell, '.gitignore' doesn't work. Not even '.git/info/exclude'
 
 # git ls-files --others --exclude-from=.git/info/exclude
 # Lines that start with '#' are comments.
