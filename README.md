@@ -1,6 +1,6 @@
 # Together we build a dating website in Python
 
-### To run this on your PC,
+### To run this project on your PC,
 
 Step 1: Install python. 
 If you are using Windows, download from [1].
@@ -21,6 +21,7 @@ Using Window Command Prompt or PowerShell, execute commands:
 
 Step 5: Use your webbrowser to surf http://localhost:8000/    
 
+### Reference
 
 [1]. https://www.python.org/downloads/windows/
 
