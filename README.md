@@ -41,13 +41,16 @@ If you face any problem, come and **chat with us** at https://t.me/activecat_dat
 
 
 # About this project
-This project is to create a dating website primarily in Python (and minimal JavaScript on html pages), making it open-source and share the source code on GitHub. We will build this website together with you if you are interested.
+This project is to create a dating website primarily in Python (and minimal JavaScript on html pages), making it open-source and sharing the source code on GitHub. We will build this website together with you if you are interested.
 
 Let's join us and contribute your idea, skill, experience, business view, as administrator, as facilitator, as website users etc.
 
 We are using
-- Backend: Django version 3.2.4
+- Backend: Django 3.2.4
 - Front-end: HTML5 / CSS / Pure JavaScript
+    - W3.CSS
+    - No jQuery, no Bootstrap
+
 - Database: sqlite3 (will migrate to PostgreSQL)
 
 

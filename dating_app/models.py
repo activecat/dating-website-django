@@ -1,3 +1,4 @@
+from django.conf import settings
 from django.db import models
 from django.contrib.auth.models import User
 from django.db.models.signals import post_save
@@ -18,6 +19,7 @@ class Profile(models.Model):
     latitude = models.DecimalField(max_digits=22, decimal_places=16, blank=True, null=True)
 
     photo = models.ImageField(upload_to='user_profile_photos', null=True, blank=True)
+    # Todo: Insert "interests" field that contains of strings.
 
     def __str__(self):
         return self.user.username
@@ -31,19 +33,19 @@ class Profile(models.Model):
         return "{} {}".format(self.user.first_name, self.user.last_name)
 
     @property
-    def first_name(self):
-        return self.user.first_name
-
-    @property
-    def last_name(self):
-        return self.user.last_name
-
-    @property
     def age(self):
-        if self.birth_date:
-            return (datetime.date.today() - self.birth_date).days // 365
-        else:
-            return self.birth_date  # This is None
+        return (datetime.date.today() - self.birth_date).days // 365 if self.birth_date else None
+
+    @property
+    def gender2(self):
+        for x, y in self.GENDER_CHOICES:
+            if self.gender == x:
+                return y
+        return "Unmatched 239"
+
+    @property
+    def photo_url(self):
+        return settings.MEDIA_URL + str(self.photo)
 
 
 @receiver(post_save, sender=User)
