@@ -17,7 +17,7 @@ Step 4:  Now you can **run it locally** on your PC/laptop. Using Windows' *Comma
     cd Downloads\dating-website-django-master
     python manage.py runserver
 
-Step 5:  To enter **main page**, use your web browser (eg. Chrome browser or Microsoft Edge) to surf http://localhost:8000/    
+Step 5:  To enter **main page**, open http://localhost:8000/ using your web browser (eg. Chrome browser or Microsoft Edge).
 
 Step 6:  To reset the admin **password**:
 
