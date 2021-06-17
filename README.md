@@ -53,6 +53,6 @@ Technology stacks:
 - Database: [sqlite3](https://sqlite.org/index.html) (will migrate to [PostgreSQL](https://www.postgresql.org/) later)
 
 
-Remember to join our **Facebook Group** at https://web.facebook.com/groups/builddating
+Remember to join us at [**Facebook Group**](https://web.facebook.com/groups/builddating)
 
-Our **support** chat group https://t.me/activecat_dating
+**Technical support**: [activecat@Telegram](https://t.me/activecat_dating)
