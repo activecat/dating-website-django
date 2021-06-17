@@ -5,7 +5,7 @@ To run this project on your PC,
 Step 1:  **Install Python**. On the [Python](https://www.python.org/) website, click `Downloads` and select `Download for Windows`, then run the downloaded file.
 
 
-Step 2:  **Install [Django](https://docs.djangoproject.com/en/3.2/topics/install/#installing-official-release)**. You may do this by command:
+Step 2:  **Install Django**. You may install [Django](https://docs.djangoproject.com/en/3.2/topics/install/#installing-official-release) by command:
 
     python -m pip install Django
 
@@ -25,7 +25,7 @@ Step 6:  To reset the admin **password**:
 
 
 
-### Quick Start
+### Some Basic URLs
 * The main page http://localhost:8000/    
 * List of registered members http://localhost:8000/user/list/
 * **Django Administration** to add/edit/delete users http://localhost:8000/admin/
