@@ -26,6 +26,10 @@ Step 6:  To reset the admin **password**:
 
 Step 7:  To add/edit/delete users, enter the **admin site** http://localhost:8000/admin/
 
+Other:
+- The main page: http://localhost:8000/    
+- To list registered members http://localhost:8000/user/list/
+
 
 
 If you face any problem, come and **chat with us** at https://t.me/activecat_dating
