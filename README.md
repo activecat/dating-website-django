@@ -25,9 +25,9 @@ Step 6:  To reset the admin **password**:
 
 
 
-### Some Basic URLs
+### Some URLs
 * The main page http://localhost:8000/    
-* List of registered members http://localhost:8000/user/list/
+* **Member list** http://localhost:8000/user/list/
 * **Django Administration** to add/edit/delete users http://localhost:8000/admin/
 
 
