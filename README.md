@@ -24,9 +24,8 @@ Step 6:  To reset the admin **password**:
     python manage.py createsuperuser
 
 
-Step 7:  To add/edit/delete users, enter the **admin site** http://localhost:8000/admin/
 
-### Tips
+### Quick Start
 * The main page http://localhost:8000/    
 * List of registered members http://localhost:8000/user/list/
 * **Django Administration** to add/edit/delete users http://localhost:8000/admin/
@@ -52,6 +51,8 @@ Let's join us and contribute your idea, skill, experience, business view, as adm
 
 - Database: [sqlite3](https://sqlite.org/index.html) (will migrate to [PostgreSQL](https://www.postgresql.org/) later)
 
+
+### Contact us
 
 Subscribe to updates and relevant posts at our [**Facebook Group**](https://web.facebook.com/groups/builddating).
 
