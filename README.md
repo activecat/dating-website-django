@@ -46,10 +46,13 @@ This project is to create a dating website primarily in Python (and minimal Java
 Let's join us and contribute your idea, skill, experience, business view, as administrator, as facilitator, as website users etc.
 
 We are using
-- Backend: Django 3.2.4
-- Front-end: HTML5 / CSS / Pure JavaScript
-    - W3.CSS
+- Front-end:
+    - HTML5
+    - [W3.CSS](https://www.w3schools.com/w3css/default.asp)
+    - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - No jQuery, no Bootstrap
+
+- Backend: [Django 3.2.4](https://www.djangoproject.com/)
 
 - Database: sqlite3 (will migrate to PostgreSQL)
 
