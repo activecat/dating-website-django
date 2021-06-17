@@ -2,14 +2,15 @@
 
 To run this project on your PC,
 
-Step 1: **Install python**. For Windows 10, download from [1].
+Step 1: [**Install python**](https://www.python.org/downloads/windows/)
 
 
 Step 2: [**Install Django**](https://docs.djangoproject.com/en/3.2/topics/install/#installing-official-release). You may do this by command:
 
     python -m pip install Django
 
-Step 3: **Download source code** from this repository [3]. The easiest way is to click `Code` and then `Download ZIP` on this webpage.  Extract the downloaded file and you will get a folder: `dating-website-django-master`.
+Step 3: **Download source code** from [this repository](https://github.com/activecat/dating-website-django). 
+The easiest way is to click `Code` and then `Download ZIP` on this webpage.  Extract the downloaded file and you will get a folder: `dating-website-django-master`.
 
 Step 4: Now you can **run it locally**. Using Windows Command Prompt or PowerShell,
 
