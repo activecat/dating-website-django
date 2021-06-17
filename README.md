@@ -36,7 +36,7 @@ If you face any problem, come and chat with us at [**activecat_dating@Telegram**
 
 
 # About this project
-This project is to create a dating website primarily in **Python**, making it open-source and sharing the source code on GitHub. We will build this website together with you if you are interested.
+This project is to create a dating website primarily in **Python**, making it **open-source** and sharing the source code on GitHub. We will build this website together with you if you are interested.
 
 Let's join us and contribute your idea, skill, experience, business view, as administrator, as facilitator, as website users etc. Various forms of participation are welcome.
 
