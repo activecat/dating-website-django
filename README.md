@@ -2,7 +2,7 @@
 
 To run this project on your PC,
 
-Step 1: [**Install python**](https://www.python.org/downloads/windows/)
+Step 1: **Install [python](https://www.python.org/)**
 
 
 Step 2: [**Install Django**](https://docs.djangoproject.com/en/3.2/topics/install/#installing-official-release). You may do this by command:
