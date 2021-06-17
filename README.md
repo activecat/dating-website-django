@@ -32,7 +32,7 @@ Step 7:  To add/edit/delete users, enter the **admin site** http://localhost:800
 * **Django Administration** to add/edit/delete users http://localhost:8000/admin/
 
 
-If you face any problem, come and **chat with us** at https://t.me/activecat_dating
+If you face any problem, come and chat with us at [**activecat_dating@Telegram**](https://t.me/activecat_dating)
 
 
 
@@ -41,7 +41,7 @@ This project is to create a dating website primarily in Python (and minimal Java
 
 Let's join us and contribute your idea, skill, experience, business view, as administrator, as facilitator, as website users etc.
 
-Technology stacks:
+### Technology stack
 - Front-end:
     - HTML5
     - [W3.CSS](https://www.w3schools.com/w3css/default.asp)
@@ -55,4 +55,4 @@ Technology stacks:
 
 Subscribe to updates and relevant posts at our [**Facebook Group**](https://web.facebook.com/groups/builddating).
 
-We also provide **technical support** via [activecat_dating@Telegram](https://t.me/activecat_dating)
+We also provide **technical support** via [activecat_dating@Telegram](https://t.me/activecat_dating).
