@@ -5,7 +5,7 @@ To run this project on your PC,
 Step 1: **Install python**. For Windows 10, download from [1].
 
 
-Step 2: **Install Django**. You may install Django [2] by command:
+Step 2: **Install Django**. You may install [Django](https://docs.djangoproject.com/en/3.2/topics/install/#installing-official-release) [2] by command:
 
     python -m pip install Django
 
