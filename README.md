@@ -55,4 +55,4 @@ Technology stacks:
 
 Remember to join us at [**Facebook Group**](https://web.facebook.com/groups/builddating)
 
-**Technical support**: [activecat@Telegram](https://t.me/activecat_dating)
+**Technical support**: [activecat_dating@Telegram](https://t.me/activecat_dating)
