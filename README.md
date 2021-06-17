@@ -31,7 +31,7 @@ Step 6:  To reset the admin **password**:
 * **Django Administration** to add/edit/delete users http://localhost:8000/admin/
 
 
-If you face any problem, come and chat with us at [**activecat_dating@Telegram**](https://t.me/activecat_dating)
+If you face any problem, come and chat with us at [activecat_dating@Telegram](https://t.me/activecat_dating)
 
 
 
