@@ -10,7 +10,7 @@ Step 2:  **Install [Django](https://docs.djangoproject.com/en/3.2/topics/install
     python -m pip install Django
 
 Step 3:  **Download source code** from this repository. 
-The easiest way is to click `Code` and then `Download ZIP` on this page.  Extract the downloaded file and you will get a folder `dating-website-django-master`.
+The easiest way is to click `Code` and then `Download ZIP` at the top-right corner of this page.  Extract the downloaded file and you will get a folder `dating-website-django-master`.
 
 Step 4:  Now you can **run it locally** on your PC/laptop. Using *Windows Command Prompt* or *PowerShell*,
 
