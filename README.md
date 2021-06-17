@@ -9,7 +9,7 @@ Step 2: [**Install Django**](https://docs.djangoproject.com/en/3.2/topics/instal
 
     python -m pip install Django
 
-Step 3: **Download source code** from [this repository](https://github.com/activecat/dating-website-django). 
+Step 3: **Download source code** from this repository. 
 The easiest way is to click `Code` and then `Download ZIP` on this webpage.  Extract the downloaded file and you will get a folder: `dating-website-django-master`.
 
 Step 4: Now you can **run it locally**. Using Windows Command Prompt or PowerShell,
@@ -19,7 +19,7 @@ Step 4: Now you can **run it locally**. Using Windows Command Prompt or PowerShe
 
 Step 5: To enter **main page**, use your web browser (eg. Chrome browser or Microsoft Edge) to surf http://localhost:8000/    
 
-Step 6: To reset the admin **password**, 
+Step 6: Command to reset the admin **password**:
 
     python manage.py createsuperuser
 
