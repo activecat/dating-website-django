@@ -14,12 +14,12 @@ class Profile(models.Model):
 
     birth_date = models.DateField(null=True, blank=True)
     address = models.CharField(max_length=500, null=True, blank=True)
+    interests = models.CharField(max_length=5000, null=True, blank=True, help_text="Eg. swimming reading travelling singing jogging")
 
     longitude = models.DecimalField(max_digits=22, decimal_places=16, blank=True, null=True)
     latitude = models.DecimalField(max_digits=22, decimal_places=16, blank=True, null=True)
 
     photo = models.ImageField(upload_to='user_profile_photos', null=True, blank=True)
-    # Todo: Insert "interests" field that contains of strings.
 
     def __str__(self):
         return self.user.username

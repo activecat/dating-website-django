@@ -1,7 +1,6 @@
 from django.http import HttpResponse, JsonResponse
 from django.shortcuts import render
 from django.contrib.auth.models import User
-from .models import Profile
 
 def index(request):
     return render(request, 'dating_app/index.html')
