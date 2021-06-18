@@ -1,6 +1,6 @@
 ## Together we build a dating website in Python
 
-# Installation 
+### Installation 
 
 To run this project on your PC,
 
@@ -54,7 +54,7 @@ Let's join us and contribute your idea, skill, experience, business view, as adm
 - Database: [sqlite3](https://sqlite.org/index.html) (will migrate to [PostgreSQL](https://www.postgresql.org/) later)
 
 
-# Contact us
+## Contact us
 
 Subscribe to updates and relevant posts at our [Facebook Group](https://web.facebook.com/groups/builddating).
 
