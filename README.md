@@ -44,10 +44,10 @@ Let's join us and contribute your idea, skill, experience, business view, as adm
 
 ### Technology stack
 - Front-end:
-    - HTML5
+    - [HTML5](https://en.wikipedia.org/wiki/HTML5)
     - [W3.CSS](https://www.w3schools.com/w3css/default.asp)
     - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    - Note: No jQuery, no Bootstrap
+    - <sub>Note: No jQuery, no Bootstrap</sub>
 
 - Backend: [Django 3.x](https://www.djangoproject.com/)
 
