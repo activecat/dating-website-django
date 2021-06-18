@@ -47,7 +47,7 @@ Let's join us and contribute your idea, skill, experience, business view, as adm
     - [HTML5](https://en.wikipedia.org/wiki/HTML5)
     - [W3.CSS](https://www.w3schools.com/w3css/default.asp)
     - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    - There is **neither** jQuery **nor** Bootstrap.
+    - There is **neither** *jQuery* **nor** *Bootstrap*.
 
 - Backend: [Django 3.x](https://www.djangoproject.com/)
 
